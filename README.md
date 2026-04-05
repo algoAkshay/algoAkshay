@@ -89,4 +89,4 @@ Voice-based assistant for government schemes
 
 ## 🐍 Contribution Graph
 
-![Snake animation](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake.svg)
+![Snake animation](https://github.com/algoakshay/algoakshay/blob/output/github-snake.svg)
