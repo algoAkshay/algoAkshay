@@ -60,13 +60,10 @@ Voice-based assistant for government schemes
 
 ---
 
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=algoAkshay&show_icons=true)
 
 ![Streak](https://streak-stats.demolab.com?user=algoAkshay)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=algoAkshay&layout=compact)
+
 
 ---
 
